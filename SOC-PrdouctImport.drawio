@@ -45,7 +45,7 @@
         <mxCell id="zZlsOXDRzm4i8i5iI6bv-21" value="Product.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zZlsOXDRzm4i8i5iI6bv-22" value="SFTP on any folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zZlsOXDRzm4i8i5iI6bv-22" value="SFTP folder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="740" width="760" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zZlsOXDRzm4i8i5iI6bv-23" value="Download file in system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
